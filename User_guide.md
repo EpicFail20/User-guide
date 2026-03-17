@@ -11,4 +11,4 @@ Le script demande en entée:
 
 Enfin il demandera l'adresse ip sur laquelle on voudra utiliser le script et il affichera les informations demandées au fur et à mesure:
 
-![Résultat du scan Nmap](Ressources/Ouverture-port-debian/SCREENSHOTS_DEBIAN/07_audit_nmap_final.png)
+![Résultat du scan Nmap](https://github.com/EpicFail20/User-guide/blob/main/projet12.png)
