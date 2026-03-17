@@ -4,6 +4,8 @@ Afin de simplifier le choix des options dans Nmap on a créeé un script qui vou
 
 Le script demande en entée:
 
+![Entrée](https://github.com/EpicFail20/User-guide/blob/main/projet1.png)
+
 - Le type de scan que l'on veut
 - La vitesse du scan, sachant que plus le scan est rapide et plus il risque de nous faire reperer et bloquer
 - Le niveau d'information que va retourner le scan
